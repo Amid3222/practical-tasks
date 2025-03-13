@@ -4,10 +4,10 @@ package com.walking.lesson1_varaibles;
  * На месте комментария написать код, который присвоит переменной a значение переменной b и наоборот.
  * Подсказка: можно использовать третью переменную.
  */
-public class Task1 {
+public class  Task1 {
     public static void main(String[] args) {
         int a = 5;
-        int b = 10;
+        int b = 1120;
 
 //        Вводим переменную temp, куда записыванием значение переменной a
         int temp = a;   //temp == 5
